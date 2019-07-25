@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+.calculatrice {
+    background-color: blueviolet;
+    width : 35%;
+}
+
+.pave {
+    display: flex;
+
+}
+
+.pave_chiffre { 
+}
+
+
+.ecran {
+    background-color: black;
+    color: white;
+}
+
+
+.operateur {
+    background-color: lightgray;
+    width: 24%; 
+}
+
+.pave_chiffre {
+    width: 80%;
+}
+
+.chiffre {
+    background-color: white;
+    width: 30%;
+}
